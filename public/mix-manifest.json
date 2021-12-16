@@ -1,0 +1,11 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/nifty.min.js": "/js/nifty.min.js",
+    "/js/tables-datatables.js": "/js/tables-datatables.js",
+    "/js/form-file-upload.js": "/js/form-file-upload.js",
+    "/js/dropzone.min.js": "/js/dropzone.min.js",
+    "/css/nifty-demo-icons.min.css": "/css/nifty-demo-icons.min.css",
+    "/css/nifty.min.css": "/css/nifty.min.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css"
+}
