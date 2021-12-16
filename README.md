@@ -1,2 +1,0 @@
-# intranet
-Intranet Software
